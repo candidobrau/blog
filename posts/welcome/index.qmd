@@ -1,12 +1,13 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-08-23"
-categories: [news]
+title: "My blog"
+date: "2023-12-20"
+categories: [admin]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is my blog. 
 
-![](thumbnail.jpg)
+Some posts are for me: writing clarifies my thoughts. 
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Some posts are for others: sharing what I've learned.
+
+Some are both.
